@@ -7,6 +7,12 @@ Slim, small, elegant 4x4 numpad
 
 
 Fusion 360 project: [Link](https://a360.co/2JvkyAq)
-PCB comming really soon. But it can fit some already available 4x4 numpad.
+
+
+PCB comming really soon. 
+
+
+But it can fit some already available 4x4 numpad.
+
 
 [🍺 Buy me some beer 🍺](https://paypal.me/Keysekai) 
